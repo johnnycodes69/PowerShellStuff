@@ -1,0 +1,1 @@
+This is a collection of PowerShell scripts I created with assistance from ChatGPT-4, or rather it created them with my assistance
