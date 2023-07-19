@@ -1,3 +1,7 @@
+#This generates 3000 fake human names from the array of FirstName and LastName
+#Combine with the MakeApps.ps1 and MakeIDs.ps1 to create a believable list of applications with names, IDs and support teams
+
+
 $FirstNames = @(
     "Adam", "Ahmed", "Aiden", "Akira", "Alina", "Amara", "Amina", "Anaya", "Anika", "Anya",
     "Aria", "Arjun", "Aryan", "Ashton", "Aya", "Ayden", "Aylin", "Bella", "Caleb", "Carlos",

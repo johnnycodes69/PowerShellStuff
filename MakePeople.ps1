@@ -1,3 +1,5 @@
+#Smaller scale verion of MakeMorePeople.ps1, should generate 50
+
 Function Get-RandomName {
 	$FirstNameList = @("John", "Jane", "Michael", "Sarah", "Robert", "Emily", "David", "Jessica", "William", "Olivia", "Steve", "Mark", "Bob", "Tom", "Todd", "Chris", "Susan", "Amber", "Brad", "Erik", "Harald", "Alan")
 	$LastNameList = @("Smith", "Johnson", "Williams", "Jones", "Brown", "Davis", "Miller", "Wilson", "Moore", "Taylor", "Payne", "Beal", "Bissell", "Adams", "Valliere", "Gordon", "Morello", "Wilk", "Leifson", "Ericson", "Bluetooth", "Nakatomo", "Rickman", "McClane")

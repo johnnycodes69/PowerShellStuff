@@ -1,3 +1,7 @@
+#This will generate 500 dummy applications with names appropriate for the finance industry...or what ChatGPT thought was appropriate based on prompt
+#The names are generated and then output to a local file in a table format for easy copy/paste into your preferred spreadsheet application
+#Combine with the MakeIDs.ps1 and MakeMorePeople.ps1 to create a believable list of applications with names, IDs and support teams
+
 $Keywords = @(
     "Bank",
     "Finance",
